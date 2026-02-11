@@ -1,0 +1,1 @@
+Method overriding happens between two classes with an inheritance relationship (subclass and superclass), where a child class redefines a parent method with the same signature, allowing runtime polymorphism. 
